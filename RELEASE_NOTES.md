@@ -7,4 +7,4 @@
 
 ## 0.2.0-SNAPSHOT
 
-* implemented Command patternfor handling Telegram Bot commands
+* implemented Command pattern for handling Telegram Bot commands
